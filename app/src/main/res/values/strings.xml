@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Learning</string>
+    <string name="title">GPA Survey</string>
+    <string name="login">Login</string>
+    <string name="sign_up">SignUp</string>
+    <string name="upload_gpa">Upload GPA</string>
+    <string name="full_name">Enter Full Name</string>
+    <string name="gpa">Enter GPA</string>
+    <string name="text_view_description">Firebase Data will be shown here</string>
+</resources>
